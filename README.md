@@ -1,1 +1,1 @@
-# Ensemble-Technique---Nachine-Learning-Project
+# Ensemble-Technique---Machine-Learning-Project
